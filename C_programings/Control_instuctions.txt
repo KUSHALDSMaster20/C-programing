@@ -1,0 +1,40 @@
+this used to determine flow of programing
+
+a. sequence control
+b. decision control (if-else)
+c. loop control (for,while)
+d. case control
+
+Operators
+
+relational Operators
+==
+> , >=
+< ,<=
+!=
+-------in c programing true=1 ,false=0-----
+
+logical Operators
+&& AND
+|| OR 
+|  NOT
+
+    operator precendence
+    1       !
+    2       *,/,%      
+    3       +,-
+    4       <,<=,>,>=
+    5       ==,!=
+    6       &&
+    7       ||
+    8       =
+Assignment operator
+=
++=
+-=
+*=
+/=
+%=
+
+
+
