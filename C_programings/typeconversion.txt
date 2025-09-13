@@ -1,0 +1,5 @@
+Type Conversion in c programing 
+
+int op int == int 
+int op float == float
+float op float ==float
